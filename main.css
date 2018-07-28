@@ -1,0 +1,40 @@
+.parent{
+  border: 2px solid green;
+  display: flex;
+  flex-direction: row;
+  background-color: skyblue;
+}
+.childone{
+  border: 2px solid orange;
+  padding: 2%;
+  margin: 2%;
+  width: 30%;
+  background-color: pink;
+  text-align: center;
+
+}
+
+.childtwo{
+  border: 2px solid pink;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+  background-color: lightgreen;
+}
+h2{
+  color: brown;
+  font-size: 25px;
+}
+h4{
+  color: orange;
+}
+a{
+  color:indigo;
+}
+img{
+border-radius: 20%;
+}
+h3{
+  color: red;
+  font-style: oblique;
+}

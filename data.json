@@ -1,0 +1,57 @@
+{"details":{
+  "image":"image3.png",
+  "name":"Siri Palagani",
+  "number":"+91-9966554432",
+  "email":"siripalagani@gmail.com",
+  "address":"Vijayawada-52007"
+},
+"career":{
+  "info":"To pursue a challenge career and be a part of organisation"
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC College",
+  "year":"2016-2020",
+  "percentage":"75%"
+},
+  {
+  "qualification":"Intermediate",
+  "institute":"Narayana Junior College",
+  "year":"2014-2016",
+  "percentage":"93%"
+},
+{
+  "qualification":"SSC",
+  "institute":"Sri Krishnaveni Talent School",
+  "year":"2002-2014",
+  "percentage":"97%"
+}
+],
+"skills":[{
+  "title":"Programming language",
+  "info":["C,C++,Ruby on rails,Python"]
+},
+{
+"title":"Data bases",
+"info":["MySQL,Oracle,Tinydb"]
+},
+{
+"title":"Operating Systems",
+"info":["Windows,Linux,Mac,Dos"]
+}
+],
+"achivements":[
+  {
+   "title":"Technical",
+    "info":["Won 2nd place in IOT Hackathon.",
+            "Presentation on Reinforcement learning.",
+            "Coding Contest"]
+},
+{
+ "title":"Non-Technical",
+  "info":["Won 2nd place at Talented miss MIC.",
+              "Quiz Contest"]
+}
+]
+}

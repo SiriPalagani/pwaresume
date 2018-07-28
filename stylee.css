@@ -1,0 +1,153 @@
+.main{
+  border: 2px solid red;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+
+}
+.left{
+  border: 2px solid green;
+  padding: 3%;
+  margin: 2%;
+  width: 30%;
+  text-align:center;
+  font-size: 30px;
+}
+h2{
+  color: brown;
+  font-size: 25px;
+}
+h4{
+  color: green;
+}
+#name{
+  color: Indigo;
+  font-size: 30px;
+  text-align: center;
+}
+.left img{
+  width: 50%;
+  border-radius: 70%;
+  border: 2px solid pink;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.right{
+  border: 2px solid purple;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+}
+@media only screen and (min-width:0px) and (max-width:480px){
+  .main{
+    border: 2px solid red;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+width: 100%;
+  }
+  .left{
+    border: 2px solid green;
+    padding: 3%;
+    margin: 2%;
+    width: 90%;
+    text-align:center;
+    background-color: pink;
+    font-size: 30px;
+  }
+  h2{
+    color: brown;
+    font-size: 25px;
+  }
+  h4{
+    color: green;
+  }
+  #name{
+    color: Indigo;
+    font-size: 30px;
+    text-align: center;
+  }
+    .table1{
+      width: 90%;
+      overflow-x: auto;
+    }
+
+  a{
+    color: orange;
+    font-size: 40;
+    word-wrap: break-word;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 70%;
+    border: 2px solid pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+    border: 2px solid purple;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    background-color: pink;
+  }
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .main{
+    border: 2px solid red;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+  }
+  .left{
+    border: 2px solid green;
+    padding: 3%;
+    margin: 2%;
+    width: 40%;
+    text-align:center;
+    background-color: lightgreen;
+    font-size: 30px;
+  }
+  h2{
+    color: brown;
+    font-size: 25px;
+  }
+  h4{
+    color: green;
+  }
+  #name{
+    color: Indigo;
+    font-size: 30px;
+    text-align: center;
+  }
+    .table1{
+      width: 90%;
+      overflow-x: auto;
+    }
+
+  a{
+    color: orange;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 70%;
+    border: 2px solid pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+    border: 2px solid purple;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    background-color: lightgreen;
+  }
+
+}
